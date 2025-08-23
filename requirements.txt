@@ -1,4 +1,4 @@
 requests>=2.20.0
 ### aiocometd @ git+https://github.com/random-python/x_aiocometd@develop ### fixes asyncio errors, optional
 aiocometd==0.4.5
-colorama=0.4.6
+colorama==0.4.6
